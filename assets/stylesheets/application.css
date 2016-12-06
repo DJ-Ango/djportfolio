@@ -1,7 +1,7 @@
 body {
       padding: 25px;
       font-family: helvetica, sans-serif;
- background-image: url("phttp://www.dagvandearchitectuur.be/2015/website/_images/_thumbs/360w/APellerman_antwerpen_stramienchak_lopez_F9.jpg");
+
 }
 
 .pure-g {
@@ -40,6 +40,14 @@ height:20px;
 .person{
  border-radius:5%;
 }
+
+.pure-img {
+    display: block;
+    height: auto;
+    margin-top: 7%;
+    max-width: 100%;
+}
+
 .opleid{
 width:70%;}
 
