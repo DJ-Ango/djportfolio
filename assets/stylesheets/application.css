@@ -1,5 +1,5 @@
 body {
-      width: 100%;
+      width: 
       font-family: helvetica, sans-serif;
 
 }
@@ -24,9 +24,6 @@ body {
 }
 
 .pure-menu-horizontal{margin-left:34.5%;}
-.pure-u-1, .pure-u-1-1, .pure-u-5-5, .pure-u-24-24 {
-    width: 76%;
-}
 .pure-menu-list a:hover{background-color:lightblue;}
 
 .balk{background-color:orange;
