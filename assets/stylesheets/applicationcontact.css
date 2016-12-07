@@ -84,7 +84,11 @@ ul{
 margin-left:1%;}
 button{margin-left:10%;}
 
-
+#name{width:40%;margin-right:28%;}
+#achternaam{width:40%;margin-right:28%;}
+#email{width:40%;margin-right:28%;}
+#text{width:40%;margin-right:28%;}
+button{margin-right: 7%;}
 @media (max-width:48em)
 {li a{
     color:red
